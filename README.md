@@ -71,6 +71,7 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+![Visitor Count](https://komarev.com/ghpvc/?username=bbrowne1&repo=bbrowne1-selenium-youtube-scrapper-live&color=blue)
 
 ---
 
